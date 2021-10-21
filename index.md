@@ -1,13 +1,12 @@
-# Please Don't Just Say Hello In Chat
+# Please Do Your Research before Chatting!
 
 ## TL;DR
 
 Modern chat communication should be done in a way that saves time for all
 participants and enables an efficient, asynchronous exchange of information.
-**Don't expect an answer if you just write "Hello" in chat**. Instead, phrase a
-message that allows your chat partners to provide a meaningful response as soon
-as they allocate time to read and answer your message.
-
+**Don't expect an answer to questions that are clearly documented**. Instead, spend at
+least 10min to find the answer to your question yourself before asking. It is a way
+of showing that you respect the time of the other person.
 ## Chat Etiquette
 
 <pre>
